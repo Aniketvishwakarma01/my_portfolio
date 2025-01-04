@@ -9,6 +9,8 @@ Welcome to my portfolio page! Here, you will find a collection of my work, proje
 - **Project 2: ToDo Application**: A ToDo application developed with React and Node.js. It features task management, user authentication, and a responsive design. [GitHub Repository](https://github.com/Aniketvishwakarma01/react.todo)
 - **Project 3: Temperature Measuring App**: A temperature measuring application developed using Java and Spring Boot. It includes features like real-time temperature tracking, data visualization, and alert notifications. [GitHub Repository](https://github.com/Aniketvishwakarma01/temperature-measuring-page)
 
+## Skills
+
 - **Web Development**: HTML, CSS, JavaScript, React
 - **Java and Frameworks**: Java, Spring Boot, JDBC, Hibernate, JSP, Servlets
 - **Database**: SQL
